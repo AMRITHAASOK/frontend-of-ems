@@ -1,0 +1,15 @@
+.toast-message {
+    background: rgb(37, 197, 218);
+    color: #fff;
+    font-size: 20px;
+    width: 34vw;
+    padding: 30px 20px;
+}
+
+.toast-message2{
+    background: rgb(19, 141, 13);
+    color: #fff;
+    font-size: 20px;
+    width: 34vw;
+    padding: 30px 20px;
+}

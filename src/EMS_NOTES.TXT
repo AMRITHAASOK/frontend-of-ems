@@ -1,0 +1,36 @@
+
+
+
+                    EMPLOYEE MANAGEMENT SYSTEM
+                
+            1. Create a new application -> npx create-react-app ems-frontend
+            2 cd ems-frontend
+            3 code .
+            4 Run code -> npm start
+            5 Clear the code -> delete app.test, logo svg, setup, reportWebVitals etc
+            6 Install 3rd party libraries 
+                        1)font awesome
+                        2)google-fonts
+                        3)React-bootstrap - npm install react-bootstrap bootstrap
+                        4)Install axios
+                        5)install react-router-dom
+            7 Choose a theme for ems - bootswatch download and import in index.js
+            8 Pages creation
+                src/Pages/
+                    1)Home.js
+                    2)Register.js
+                    3)ViewProfile.js
+                    4)Edit.js
+                    5)PageNotFound.js
+            9 Setup path for each Pages
+                install react-router-dom
+
+                -Import BrowserRouter in index.js
+                -
+            10 Component creation
+                    -Header.js
+                    -Footer.js
+
+            11 Register routes integration
+
+            
